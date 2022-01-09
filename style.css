@@ -1,0 +1,33 @@
+.swimming div{
+    width: 150px;
+    border: 1px solid indianred;
+}
+.swimming{
+    width: 150px;
+    border: 1px dotted indianred;
+}
+#water{
+    position: relative;
+    top: -75px;
+
+}
+#ring{
+    position: relative;
+    z-index: 1;
+}
+#boy{
+    position: relative;
+    top: 75px;
+    z-index: 2;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
+th{
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
